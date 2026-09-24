@@ -1,0 +1,16 @@
+numpy
+pandas
+openpyxl
+matplotlib
+seaborn
+scipy
+xarray
+netCDF4
+rasterio
+rioxarray
+rasterstats
+geopandas
+shapely
+earthengine-api
+geemap
+jupyterlab

@@ -1,0 +1,38 @@
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Data folders (kept outside the repo; see README)
+data/
+data(LPJmL)/
+shape/
+tiffs/
+raster(clip)/
+stats/
+compiled values/
+gpp graphs/
+grid_test/
+
+# Large / generated data files
+*.nc
+*.tif
+*.tiff
+*.xlsx
+*.csv
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
